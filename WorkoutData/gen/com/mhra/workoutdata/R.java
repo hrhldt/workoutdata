@@ -17,9 +17,10 @@ public final class R {
         public static final int burger_menu96x96=0x7f020000;
         public static final int counter_bg=0x7f020001;
         public static final int ic_launcher=0x7f020002;
-        public static final int list_item_bg_normal=0x7f020003;
-        public static final int list_item_bg_pressed=0x7f020004;
-        public static final int list_selector=0x7f020005;
+        public static final int ic_navigation_drawer=0x7f020003;
+        public static final int list_item_bg_normal=0x7f020004;
+        public static final int list_item_bg_pressed=0x7f020005;
+        public static final int list_selector=0x7f020006;
     }
     public static final class id {
         public static final int counter=0x7f070002;
